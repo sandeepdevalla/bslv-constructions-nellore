@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bslv-constructions-nellore/static/css/main.800cba81.chunk.css",
+    "main.js": "/bslv-constructions-nellore/static/js/main.e41f4592.chunk.js",
+    "main.js.map": "/bslv-constructions-nellore/static/js/main.e41f4592.chunk.js.map",
+    "runtime-main.js": "/bslv-constructions-nellore/static/js/runtime-main.f1689a81.js",
+    "runtime-main.js.map": "/bslv-constructions-nellore/static/js/runtime-main.f1689a81.js.map",
+    "static/js/2.9b037310.chunk.js": "/bslv-constructions-nellore/static/js/2.9b037310.chunk.js",
+    "static/js/2.9b037310.chunk.js.map": "/bslv-constructions-nellore/static/js/2.9b037310.chunk.js.map",
+    "index.html": "/bslv-constructions-nellore/index.html",
+    "precache-manifest.1e2a51d800d694e376a232b400f97242.js": "/bslv-constructions-nellore/precache-manifest.1e2a51d800d694e376a232b400f97242.js",
+    "service-worker.js": "/bslv-constructions-nellore/service-worker.js",
+    "static/css/main.800cba81.chunk.css.map": "/bslv-constructions-nellore/static/css/main.800cba81.chunk.css.map",
+    "static/js/2.9b037310.chunk.js.LICENSE.txt": "/bslv-constructions-nellore/static/js/2.9b037310.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1689a81.js",
+    "static/js/2.9b037310.chunk.js",
+    "static/css/main.800cba81.chunk.css",
+    "static/js/main.e41f4592.chunk.js"
+  ]
+}
